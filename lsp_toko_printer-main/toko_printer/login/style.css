@@ -1,0 +1,68 @@
+body {
+    background: #E5890A;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background-image: url(https://i.pinimg.com/564x/7c/e9/e4/7ce9e4c3f05e3ad7ee48a875c206c32a.jpg);
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+    padding: 30px;
+    border-radius: 15px;
+}
+.bg{
+    width: 500px;
+    height: 500px;
+    margin-left: 800px;
+    margin-top: 70px;
+}
+h2{
+    color: #ddd;
+}
+
+h3 {
+    line-height: 2px;
+    color: #ddd;
+}
+
+label {
+    color: #ddd;
+}
+
+small {
+    color: #E5890A;
+}
+
+form {
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: #E5890A;
+    color: #fff;
+}
+
+.register {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register a {
+    text-decoration: none;
+    color: #E5890A;
+}

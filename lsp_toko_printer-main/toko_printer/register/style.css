@@ -1,0 +1,62 @@
+body {
+    background: #E5890A;
+}
+
+.container {
+    width: 400px;
+    height: 550px;
+    background-image: url(https://i.pinimg.com/564x/7c/e9/e4/7ce9e4c3f05e3ad7ee48a875c206c32a.jpg);
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: #ddd;
+}
+
+h3 {
+    line-height: 2px;
+    color: #ddd;
+}
+
+label {
+    color: #ddd;
+}
+
+small {
+    color: #E5890A;
+}
+
+form {
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: #E5890A;
+    color: #fff;
+}
+
+.login {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login a {
+    text-decoration: none;
+    color: #E5890A;
+}
